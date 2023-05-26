@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Aaron Katey Kudadjie.
+- 👀 I’m interested in Mobile Development, Web Development and Machile Learning.
+- 🌱 I’m currently learning Software Engineering, Mobile and Web development while majoring in BSc Computer Science at the University of Ghana.
+- 💞️ I’m looking to collaborate on any Software Engineering project available.
+- 📫 How to reach me = {"email" : "drewaaron96@gmail.com"}
